@@ -1,0 +1,106 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "main": {
+      "main": true,
+      "url": "app://editor/index.html",
+      "windowType": "dockable",
+      "x": -8,
+      "y": -8,
+      "width": 1298,
+      "height": 738,
+      "layout": {
+        "children": [
+          {
+            "children": [
+              {
+                "active": 0,
+                "children": [
+                  "hierarchy"
+                ],
+                "height": 307.10418701171875,
+                "type": "panel",
+                "width": 229.0625
+              },
+              {
+                "active": 0,
+                "children": [
+                  "assets"
+                ],
+                "height": 309.10418701171875,
+                "type": "panel",
+                "width": 229.0625
+              }
+            ],
+            "height": 618.2083740234375,
+            "type": "dock-v",
+            "width": 229.0625
+          },
+          {
+            "active": 0,
+            "children": [
+              "scene"
+            ],
+            "height": 618.2083740234375,
+            "type": "panel",
+            "width": 442.1145935058594
+          },
+          {
+            "active": 0,
+            "children": [
+              "node-library"
+            ],
+            "height": 618.2083740234375,
+            "type": "panel",
+            "width": 264.07293701171875
+          },
+          {
+            "active": 0,
+            "children": [
+              "inspector",
+              "cocos-services"
+            ],
+            "height": 618.2083740234375,
+            "type": "panel",
+            "width": 342.09375
+          }
+        ],
+        "type": "dock-h"
+      },
+      "panels": [
+        "hierarchy",
+        "assets",
+        "node-library",
+        "inspector",
+        "cocos-services",
+        "scene"
+      ]
+    }
+  },
+  "panels": {
+    "builder": {
+      "x": 14,
+      "y": 0,
+      "width": 1234,
+      "height": 738
+    },
+    "project-settings": {
+      "x": 276,
+      "y": 20,
+      "width": 620,
+      "height": 738
+    },
+    "console": {
+      "x": 430,
+      "y": 164,
+      "width": 416,
+      "height": 338
+    },
+    "timeline": {
+      "x": 382,
+      "y": 164,
+      "width": 520,
+      "height": 338
+    }
+  }
+}

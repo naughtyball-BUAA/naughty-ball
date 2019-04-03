@@ -1,0 +1,40 @@
+{
+  "collision-matrix": [
+    [
+      false,
+      true
+    ],
+    [
+      true,
+      false
+    ]
+  ],
+  "design-resolution-height": 1280,
+  "design-resolution-width": 720,
+  "excluded-modules": [],
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "fit-height": true,
+  "fit-width": true,
+  "group-list": [
+    "b",
+    "a"
+  ],
+  "last-module-event-record-time": 1554257885474,
+  "simulator-orientation": false,
+  "simulator-resolution": {
+    "height": 1080,
+    "width": 1920
+  },
+  "start-scene": "b4a63db2-5493-48ea-badb-7d49ebb0ba34",
+  "use-customize-simulator": false,
+  "use-project-simulator-setting": true
+}
